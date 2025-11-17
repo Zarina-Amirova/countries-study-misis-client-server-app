@@ -1,0 +1,32 @@
+{
+  "project" : {
+    "id" : "moj_code_dlya_smarta-4306611-cje",
+    "name" : "moj_code_dlya_smarta-4306611-cje",
+    "folder" : "/jaicp"
+  },
+  "settings" : {
+    "language" : "ru",
+    "spellingCorrection" : false,
+    "classificationAlgorithm" : "sts",
+    "timezone" : "UTC",
+    "businessShared" : false,
+    "business" : false
+  },
+  "intents" : [ {
+    "id" : 775547,
+    "path" : "/Новый интент",
+    "enabled" : true,
+    "businessShared" : false,
+    "business" : false,
+    "phrases" : [ ]
+  }, {
+    "id" : 775548,
+    "path" : "/Новый интент 1",
+    "enabled" : true,
+    "businessShared" : false,
+    "business" : false,
+    "phrases" : [ ]
+  } ],
+  "entities" : [ ],
+  "enabledSystemEntities" : [ "duckling.number", "duckling.time", "duckling.duration", "duckling.phone-number", "duckling.email", "duckling.url" ]
+}
